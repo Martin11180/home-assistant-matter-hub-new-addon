@@ -1,8 +1,8 @@
-# v2.1.0-alpha.414
+# v2.1.0-alpha.415
 
 ## Changes
 
-- fix: register custom service areas as RvcRunMode room modes for Apple Home zone dispatch (1ff6a804)
+- fix: snapshot-copy selectedAreas before clearing state to prevent proxy invalidation (042e7095)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
