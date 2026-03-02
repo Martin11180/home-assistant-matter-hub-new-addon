@@ -1,8 +1,8 @@
-# v2.1.0-alpha.418
+# v2.1.0-alpha.419
 
 ## Changes
 
-- fix: switch Dreame floor map before vacuum_clean_segment for multi-floor rooms (85efedb0)
+- fix: use OnOffPlugInUnit for on/off-only fans (#229) (3734f69b)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
