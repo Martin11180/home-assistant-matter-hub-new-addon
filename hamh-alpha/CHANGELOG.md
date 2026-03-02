@@ -1,8 +1,8 @@
-# v2.1.0-alpha.417
+# v2.1.0-alpha.418
 
 ## Changes
 
-- fix(#225): retain fan percentSetting/speedSetting when off to prevent 100% on turn-on (e1e3aebe)
+- fix: switch Dreame floor map before vacuum_clean_segment for multi-floor rooms (85efedb0)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
