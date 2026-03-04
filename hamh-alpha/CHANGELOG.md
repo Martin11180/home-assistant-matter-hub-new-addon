@@ -1,8 +1,8 @@
-# v2.1.0-alpha.425
+# v2.1.0-alpha.426
 
 ## Changes
 
-- fix: frontend error boundary, 404 page, WCAG contrast, bulk action guards, docs corrections (becd29a1)
+- fix: revert dashboard fetch URL to relative path for HA ingress compatibility (94c1ed6f)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
