@@ -1,8 +1,8 @@
-# v2.1.0-alpha.431
+# v2.1.0-alpha.432
 
 ## Changes
 
-- fix(#225): retain light currentLevel when off to prevent Apple Home 100% brightness on turn-on (8948764b)
+- fix(#232): decouple save button from RJSF schema validation errors (e7c6ba43)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
