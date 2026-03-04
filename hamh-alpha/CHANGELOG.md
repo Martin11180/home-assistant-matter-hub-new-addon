@@ -1,8 +1,8 @@
-# v2.1.0-alpha.432
+# v2.1.0-alpha.433
 
 ## Changes
 
-- fix(#232): decouple save button from RJSF schema validation errors (e7c6ba43)
+- fix: correct autoHumidityMapping schema default to match runtime behavior (fb0b5370)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
