@@ -1,8 +1,8 @@
-# v2.1.0-alpha.428
+# v2.1.0-alpha.429
 
 ## Changes
 
-- fix: P0+P1 audit fixes  docs, logger, theme-aware UI (27ed3374)
+- docs: update documentation for v2.0.28 stable release (1fb516db)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
