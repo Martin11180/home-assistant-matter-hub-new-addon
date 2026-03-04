@@ -1,3 +1,32 @@
+## [2.0.28](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.27...v2.0.28) (2026-03-04)
+
+
+### Bug Fixes
+
+* **#225:** retain fan percentSetting/speedSetting when off to prevent 100% on turn-on ([e1e3aeb](https://github.com/RiDDiX/home-assistant-matter-hub/commit/e1e3aebed4c95285632b171528046badbb110a38)), closes [#225](https://github.com/RiDDiX/home-assistant-matter-hub/issues/225)
+* add source selection (MediaInput) to VideoPlayerDevice for TVs ([#231](https://github.com/RiDDiX/home-assistant-matter-hub/issues/231)) ([54416e7](https://github.com/RiDDiX/home-assistant-matter-hub/commit/54416e759d01b35e76ff3ea87a994fe189dd3c26))
+* biome formatting for composed air purifier lint ([1eef2df](https://github.com/RiDDiX/home-assistant-matter-hub/commit/1eef2dfd33cc291098cb176ede38924362c2d1c3))
+* flatten composed air purifier to single endpoint ([#218](https://github.com/RiDDiX/home-assistant-matter-hub/issues/218)) ([feddb53](https://github.com/RiDDiX/home-assistant-matter-hub/commit/feddb535f19c84e846041cc0a0e3f68957c2da90))
+* frontend error boundary, 404 page, WCAG contrast, bulk action guards, docs corrections ([becd29a](https://github.com/RiDDiX/home-assistant-matter-hub/commit/becd29a13ae9b21a4859c2c4de7e65ff0d5d98a6))
+* merge API docs, add Testing Features to TOC, fix unsafe cast, use logger in BridgeService, theme-aware colors in Dashboard/NetworkMap/HubNode ([0502dca](https://github.com/RiDDiX/home-assistant-matter-hub/commit/0502dca9b633e1943124caa797a54305f6fe4e18))
+* optimistic state updates for level and color control commands ([d4a9579](https://github.com/RiDDiX/home-assistant-matter-hub/commit/d4a9579d225498a3e6086edb0b0230f53904e8ec))
+* P0+P1 audit fixes  docs, logger, theme-aware UI ([27ed337](https://github.com/RiDDiX/home-assistant-matter-hub/commit/27ed33742a92d842b010d77f764304d6b419859b))
+* prevent undefined values in bridge config form data ([3f1fc4f](https://github.com/RiDDiX/home-assistant-matter-hub/commit/3f1fc4fdc14712797bbcc474144670b2a4808ace))
+* raise fan speedMax cap from 10 to 100 (Matter spec max) ([c9e458c](https://github.com/RiDDiX/home-assistant-matter-hub/commit/c9e458c4f78f684128f0f3991505f2de6d39c765))
+* register custom service areas as RvcRunMode room modes for Apple Home zone dispatch ([1ff6a80](https://github.com/RiDDiX/home-assistant-matter-hub/commit/1ff6a804a62140234cb54ae94ac951ab23ed17a8)), closes [#177](https://github.com/RiDDiX/home-assistant-matter-hub/issues/177)
+* remove @matter/main from frontend, fix PR [#226](https://github.com/RiDDiX/home-assistant-matter-hub/issues/226) issues ([459b3ca](https://github.com/RiDDiX/home-assistant-matter-hub/commit/459b3ca3d0b69bb68158f8da54dde39060642f27))
+* revert dashboard fetch URL to relative path for HA ingress compatibility ([94c1ed6](https://github.com/RiDDiX/home-assistant-matter-hub/commit/94c1ed6f2c4d908b4060191b832d0aaac5098790))
+* set onLevel to null for lights to prevent brightness reset on turn-on ([#225](https://github.com/RiDDiX/home-assistant-matter-hub/issues/225)) ([ba0e758](https://github.com/RiDDiX/home-assistant-matter-hub/commit/ba0e75808bb0d2b40f9781cdc25e2c2dc8295300))
+* snapshot-copy selectedAreas before clearing state to prevent proxy invalidation ([042e709](https://github.com/RiDDiX/home-assistant-matter-hub/commit/042e7095b2f7922adfd16871bffe4cad52055b65)), closes [#224](https://github.com/RiDDiX/home-assistant-matter-hub/issues/224)
+* switch Dreame floor map before vacuum_clean_segment for multi-floor rooms ([85efedb](https://github.com/RiDDiX/home-assistant-matter-hub/commit/85efedb06e38832f0a7613c9ae0accaf1caadcd7))
+* use OnOffPlugInUnit for on/off-only fans ([#229](https://github.com/RiDDiX/home-assistant-matter-hub/issues/229)) ([3734f69](https://github.com/RiDDiX/home-assistant-matter-hub/commit/3734f69b86a33ef12571db9f3a84226a38986ade))
+
+
+### Features
+
+* add --http-base-path option for reverse proxy subfolder support ([#228](https://github.com/RiDDiX/home-assistant-matter-hub/issues/228)) ([00034e4](https://github.com/RiDDiX/home-assistant-matter-hub/commit/00034e4dcca35ea1818ab82fb9b7b3f662a600ce))
+* add device image support with z2m integration and custom uploads ([#221](https://github.com/RiDDiX/home-assistant-matter-hub/issues/221)) ([f9412af](https://github.com/RiDDiX/home-assistant-matter-hub/commit/f9412aff6ba3792e85f7eb44d85ff20599488aca))
+
 ## [2.0.27](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.26...v2.0.27) (2026-02-28)
 
 
