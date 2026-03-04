@@ -1,8 +1,8 @@
-# v4.1.0-testing.23
+# v4.1.0-testing.24
 
 ## Changes
 
-- feat: plugin install/uninstall via UI (f28e3c14)
+- chore: add GitHub funding configuration (c9e7578c)
 
 ---
 ⚠️ **This is a testing release** - use at your own risk!
