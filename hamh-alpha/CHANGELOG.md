@@ -1,8 +1,8 @@
-# v2.1.0-alpha.434
+# v2.1.0-alpha.435
 
 ## Changes
 
-- chore: add GitHub funding configuration (29f76bdc)
+- docs: update documentation for v2.0.29 stable release (9b0943e2)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
