@@ -1,8 +1,8 @@
-# v2.1.0-alpha.442
+# v2.1.0-alpha.443
 
 ## Changes
 
-- fix(#240): route boundary cover targets to open/close regardless of direction (1729b535)
+- fix: make autoHumidityMapping default-enabled like autoPressureMapping (8a3eaa60)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
