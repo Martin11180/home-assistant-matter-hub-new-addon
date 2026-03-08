@@ -1,8 +1,8 @@
-# v2.1.0-alpha.457
+# v2.1.0-alpha.458
 
 ## Changes
 
-- fix: safe JSON response parsing to prevent cryptic proxy errors (#222) (c03104fb)
+- feat: selective mapping profile export with entity picker dialog (05ee2078)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
