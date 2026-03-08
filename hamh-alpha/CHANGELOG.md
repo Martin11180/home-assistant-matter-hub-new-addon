@@ -1,8 +1,8 @@
-# v2.1.0-alpha.453
+# v2.1.0-alpha.454
 
 ## Changes
 
-- fix(#242): add deprecated 'label' type to matcher schema for backward compat (baa63b4b)
+- docs: redesign sponsor section, add new sponsors (e5d7b083)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
