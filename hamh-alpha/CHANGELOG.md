@@ -1,8 +1,8 @@
-# v2.1.0-alpha.474
+# v2.1.0-alpha.475
 
 ## Changes
 
-- test: add endpoint mapping integration tests with cluster validation (e14d6099)
+- feat: plugin system with fault isolation, UI, Matterbridge adapter and npm install/uninstall (f2ab2eff)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
