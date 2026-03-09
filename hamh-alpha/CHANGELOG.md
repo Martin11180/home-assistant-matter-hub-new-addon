@@ -1,8 +1,8 @@
-# v2.1.0-alpha.477
+# v2.1.0-alpha.478
 
 ## Changes
 
-- fix: plugin endpoint state wiring, light turnOn domain check, plugin runner cleanup (4ee7ccb7)
+- fix: complete plugin system overhaul — load, validate, command forwarding, install paths (c4c09e10)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
