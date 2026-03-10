@@ -1,8 +1,8 @@
-# v2.1.0-alpha.481
+# v2.1.0-alpha.482
 
 ## Changes
 
-- fix: remove deprecated alexaPreserveBrightnessOnTurnOn and vacuumMinimalClusters feature flags (5736bf5b)
+- feat: add distinct Motion Sensor (PIR) device type for binary_sensor (#244) (fd6ba354)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
