@@ -1,8 +1,8 @@
-# v2.1.0-alpha.488
+# v2.1.0-alpha.489
 
 ## Changes
 
-- fix: allow deprecated feature flags in stored bridge data to pass validation (1fef4017)
+- fix: bypass matter.js isDeepEqual for mapped entity updates (#237) (ef15bb61)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
