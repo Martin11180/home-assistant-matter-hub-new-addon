@@ -1,8 +1,8 @@
-# v2.1.0-alpha.496
+# v2.1.0-alpha.497
 
 ## Changes
 
-- fix: correct contact sensor Open/Closed display in HAMH UI (#254) (5c479988)
+- fix: handle string battery attributes for Rest980/Roomba vacuums (#255) (f2b1d451)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
