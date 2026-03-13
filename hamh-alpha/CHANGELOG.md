@@ -1,8 +1,8 @@
-# v2.1.0-alpha.499
+# v2.1.0-alpha.500
 
 ## Changes
 
-- ci: update GitHub Actions to Node.js 24 compatible versions (311795fd)
+- fix: broadcast bridge updates after auto-refresh and await onRefresh (#256) (87392be9)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
