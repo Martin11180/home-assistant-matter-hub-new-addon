@@ -1,8 +1,8 @@
-# v2.1.0-alpha.514
+# v2.1.0-alpha.515
 
 ## Changes
 
-- fix: use sub-endpoints for composed air purifier to fix FanControl UI (eef46136)
+- fix: filter stale CLEAN_AREA entries via vacuum/get_segments (9210f21b)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
