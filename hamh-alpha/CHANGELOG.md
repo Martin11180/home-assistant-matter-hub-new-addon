@@ -1,9 +1,8 @@
-# v2.1.0-alpha.522
+# v2.1.0-alpha.523
 
 ## Changes
 
-- fix: use stable keys for composed entity list to satisfy noArrayIndexKey lint (6f11ef39)
-- feat: user-defined composed devices via composedEntities mapping (#220) (f936cf4e)
+- fix: skip climate.turn_on when thermostat is already on (#269) (34a275ac)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
