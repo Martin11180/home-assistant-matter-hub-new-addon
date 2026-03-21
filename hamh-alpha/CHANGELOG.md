@@ -1,8 +1,8 @@
-# v2.1.0-alpha.524
+# v2.1.0-alpha.525
 
 ## Changes
 
-- fix: persist composedEntities in entity-mapping API PUT handler (#220) (102668bc)
+- feat: quick link to failed devices from dashboard (#270) (cb50c3ee)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
