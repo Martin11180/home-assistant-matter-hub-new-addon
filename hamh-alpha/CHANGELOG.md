@@ -1,8 +1,8 @@
-# v2.1.0-alpha.531
+# v2.1.0-alpha.532
 
 ## Changes
 
-- docs: add guide for bulk deleting Alexa smart home devices (#267) (5ef6b113)
+- fix: swap import/export icons on bridges page (f610e7b0)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
