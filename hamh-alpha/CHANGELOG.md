@@ -1,8 +1,9 @@
-# v2.1.0-alpha.542
+# v2.1.0-alpha.543
 
 ## Changes
 
-- fix: strip BasicInformationServer from composed sub-endpoints (29db91b3)
+- docs: add FAQ for switching between Alpha and Stable (#280) (00098ac9)
+- fix: restore missing mapping fields in backup restore paths (8ee73bf4)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
