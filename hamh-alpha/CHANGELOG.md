@@ -1,9 +1,8 @@
-# v2.1.0-alpha.543
+# v2.1.0-alpha.544
 
 ## Changes
 
-- docs: add FAQ for switching between Alpha and Stable (#280) (00098ac9)
-- fix: restore missing mapping fields in backup restore paths (8ee73bf4)
+- fix: enable ServiceArea ProgressReporting for room cleaning status display (64fbebdd)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
