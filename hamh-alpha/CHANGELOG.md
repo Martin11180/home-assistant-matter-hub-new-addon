@@ -1,8 +1,8 @@
-# v2.1.0-alpha.550
+# v2.1.0-alpha.551
 
 ## Changes
 
-- docs: add SSH/CLI workaround for Alpha↔Stable migration (#280) (4abdfa42)
+- fix: guard against missing attributes during HA restart (#286) (02d10baa)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
