@@ -1,8 +1,8 @@
-# v2.1.0-alpha.549
+# v2.1.0-alpha.550
 
 ## Changes
 
-- feat: dynamic room progress tracking via currentRoomEntity sensor (b95d0c19)
+- docs: add SSH/CLI workaround for Alpha↔Stable migration (#280) (4abdfa42)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
