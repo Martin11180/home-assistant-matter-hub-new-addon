@@ -1,8 +1,8 @@
-# v2.1.0-alpha.560
+# v2.1.0-alpha.561
 
 ## Changes
 
-- fix(alpha): force structural diff in operationalError to trigger subscription reports (#287) (d731f711)
+- fix(alpha): improve currentRoom sensor matching and add INFO logging (#281) (6e42c9ec)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
