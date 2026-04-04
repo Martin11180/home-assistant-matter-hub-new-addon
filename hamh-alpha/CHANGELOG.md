@@ -1,9 +1,8 @@
-# v2.1.0-alpha.557
+# v2.1.0-alpha.558
 
 ## Changes
 
-- fix(alpha): preserve activeAreas during brief state transitions and fix Dreame room_id matching (#281) (f8dcf778)
-- fix(alpha): correct vacuum spec-violating state combinations (#287) (22aaa0d3)
+- fix: periodic keepalive to prevent Apple Home "Updating..." (#287) (c20b03bd)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
