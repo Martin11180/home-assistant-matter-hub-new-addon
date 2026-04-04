@@ -1,8 +1,8 @@
-# v2.1.0-alpha.559
+# v2.1.0-alpha.560
 
 ## Changes
 
-- fix: use interval timer for vacuum keepalive instead of in-update check (5952b8e4)
+- fix(alpha): force structural diff in operationalError to trigger subscription reports (#287) (d731f711)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
