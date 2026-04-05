@@ -1,8 +1,8 @@
-# v2.1.0-alpha.565
+# v2.1.0-alpha.566
 
 ## Changes
 
-- fix(#273): auto-map HA moisture sensors to HumiditySensor (924fe4cd)
+- test(#272): guard fan AirflowDirection feature exposure (f924e41f)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
