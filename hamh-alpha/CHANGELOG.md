@@ -1,8 +1,8 @@
-# v2.1.0-alpha.571
+# v2.1.0-alpha.572
 
 ## Changes
 
-- fix(#287): use errorStateDetails instead of errorStateLabel for keepalive (10d33c92)
+- fix: remove HEALTHCHECK from addon Dockerfile (932b8aab)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
