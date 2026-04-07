@@ -1,8 +1,8 @@
-# v2.1.0-alpha.572
+# v2.1.0-alpha.573
 
 ## Changes
 
-- fix: remove HEALTHCHECK from addon Dockerfile (932b8aab)
+- fix(#287): use setStateOf for keepalive instead of act() (87e20622)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
