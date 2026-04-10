@@ -1,8 +1,8 @@
-# v2.1.0-alpha.590
+# v2.1.0-alpha.591
 
 ## Changes
 
-- fix(#289): split GenericSwitch into single/multi variants (941b7d29)
+- fix(#293): honor speaker override for tv media_player entities (255143b7)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
