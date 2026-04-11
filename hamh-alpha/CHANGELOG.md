@@ -1,9 +1,8 @@
-# v2.1.0-alpha.598
+# v2.1.0-alpha.599
 
 ## Changes
 
-- test: lock in modeselect label propagation for #296 (a8b0c943)
-- docs: add ppttu to sponsors (baef8006)
+- chore: update matter.js to 0.16.11 (d31c3394)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
