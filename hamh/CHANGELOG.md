@@ -1,3 +1,10 @@
+## [2.0.39](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.38...v2.0.39) (2026-04-12)
+
+
+### Features
+
+* add support link in footer and docs page ([4185c4e](https://github.com/RiDDiX/home-assistant-matter-hub/commit/4185c4e340033ab830fc8f12e69720a489511b79))
+
 ## [2.0.38](https://github.com/RiDDiX/home-assistant-matter-hub/compare/v2.0.37...v2.0.38) (2026-04-11)
 
 
