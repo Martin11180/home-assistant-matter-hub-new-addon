@@ -1,8 +1,8 @@
-# v2.1.0-alpha.606
+# v2.1.0-alpha.607
 
 ## Changes
 
-- sanitize productName from nodeLabel and add serialNumberSuffix config (2d95af2a)
+- add preferEntityRegistryName flag for HA 2026.4 naming (#276) (47fa47b9)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
