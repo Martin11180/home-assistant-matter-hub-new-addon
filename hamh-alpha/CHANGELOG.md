@@ -1,12 +1,14 @@
-# v2.1.0-alpha.614
+# v2.1.0-alpha.615
 
 ## Changes
 
-- docs: flip resolvable compat matrix cells with sources (ca1f2d42)
-- fix: clear pending debouncers on unregisterAll (2be9c22d)
-- fix: add 30s timeout to ha sendMessagePromise calls (a66f1506)
-- fix: reject web-api start on port conflict (757348de)
-- fix: graceful shutdown on api/backup/restart (01349adc)
+- fix: serialize bridge start and stop lifecycle calls (d4a03678)
+- fix: retry transient network errors on ha connect (a3e25041)
+- fix: log and surface bridge import errors (cba62960)
+- fix: sweep stale optimistic state entries on set (af228056)
+- fix: serialize updateStates and detach plugin listeners (7839ef2f)
+- fix: guard auto-refresh against overlapping reloads (22254a3d)
+- fix: dispose AppEnvironment on graceful shutdown (dc94c779)
 
 ---
 ⚠️ **This is an alpha release** - use at your own risk!
