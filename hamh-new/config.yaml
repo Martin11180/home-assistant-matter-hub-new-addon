@@ -1,5 +1,5 @@
-version: "0.0.3"
-image: ghcr.io/martin11180/home-assistant-matter-hub-new-addon
+version: "0.0.4"
+image: ghcr.io/riddix/home-assistant-matter-hub-addon
 slug: hamh_new
 name: Home Assistant Matter Hub New
 description: "Home Assistant Matter Hub New"
