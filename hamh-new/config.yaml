@@ -1,0 +1,27 @@
+version: "0.0.3"
+image: ghcr.io/martin11180/home-assistant-matter-hub-new-addon
+slug: hamh_new
+name: Home Assistant Matter Hub New
+description: "Home Assistant Matter Hub New"
+url: https://github.com/Martin11180/home-assistant-matter-hub-new-addon
+panel_icon: mdi:hub
+panel_title: Matter Hub New
+homeassistant: 2024.1.0
+homeassistant_api: true
+host_network: true
+init: false
+arch:
+  - aarch64
+  - amd64
+ingress: true
+ingress_port: 0
+map:
+  - addon_config:rw
+options:
+  app_log_level: info
+  disable_log_colors: false
+  mdns_network_interface: "enp6s18"
+schema:
+  app_log_level: list(silly|debug|info|notice|warn|error|fatal)
+  disable_log_colors: bool
+  mdns_network_interface: "str?"
